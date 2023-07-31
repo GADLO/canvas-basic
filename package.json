@@ -1,0 +1,23 @@
+{
+  "name": "canvas-basic",
+  "version": "1.0.0",
+  "description": "basic canvas knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GADLO/canvas-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GADLO/canvas-basic/issues"
+  },
+  "homepage": "https://github.com/GADLO/canvas-basic#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.7"
+  }
+}
